@@ -1,2 +1,2 @@
-# hyperblog
-un blog para aprender git y github con el curso de platzi
+# Hyperblog
+###### un blog de prueba para aprender a utilizar git y github de una manera practica y sencilla por medio de platzi 
